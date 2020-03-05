@@ -1,0 +1,8 @@
+13/02/2020  9:58:32.25 All tests of location completed: 3 passed, 0 advisory, 2 failed (of 28 total). 
+13/02/2020 10:07:11.36 All tests of location completed: 3 passed, 0 advisory, 2 failed (of 28 total). 
+13/02/2020 10:10:58.29 All tests of location completed: 10 passed, 16 advisory, 2 failed (of 28 total). 
+20/02/2020  9:22:48.73 All tests of location completed: 8 passed, 16 advisory, 4 failed (of 28 total). 
+20/02/2020  9:23:31.82 All tests of location completed: 5 passed, 0 advisory, 0 failed (of 28 total). 
+Lab1Test can be signed off for CAMERON CROFT (589603) at 20/02/2020  9:23:33.36 on FEN-052-110 
+20/02/2020  9:44:47.48 All tests of location completed: 5 passed, 0 advisory, 0 failed (of 28 total). 
+Lab1Test can be signed off for CAMERON CROFT (589603) at 20/02/2020  9:44:49.36 on FEN-052-110 

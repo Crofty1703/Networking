@@ -1,0 +1,28 @@
+13/02/2020  9:40:33.03 All tests completed: 0 passed, 0 advisory, 2 failed. 
+13/02/2020  9:56:57.44 All tests of whois.net.dcs.hull.ac.uk completed: 0 passed, 1 advisory, 8 failed (of 17 total). 
+13/02/2020 10:13:31.93 All tests of whois.net.dcs.hull.ac.uk completed: 0 passed, 1 advisory, 8 failed (of 17 total). 
+13/02/2020 10:23:36.67 All tests of whois.net.dcs.hull.ac.uk completed: 1 passed, 0 advisory, 7 failed (of 17 total). 
+13/02/2020 10:29:54.29 All tests of whois.net.dcs.hull.ac.uk completed: 4 passed, 0 advisory, 6 failed (of 17 total). 
+13/02/2020 10:31:34.85 All tests of whois.net.dcs.hull.ac.uk completed: 7 passed, 0 advisory, 2 failed (of 17 total). 
+13/02/2020 10:40:37.38 All tests of whois.net.dcs.hull.ac.uk completed: 7 passed, 0 advisory, 1 failed (of 17 total). 
+13/02/2020 10:43:03.77 All tests of whois.net.dcs.hull.ac.uk completed: 1 passed, 0 advisory, 7 failed (of 17 total). 
+13/02/2020 10:47:07.84 All tests of whois.net.dcs.hull.ac.uk completed: 1 passed, 0 advisory, 7 failed (of 17 total). 
+13/02/2020 10:49:00.14 All tests of whois.net.dcs.hull.ac.uk completed: 7 passed, 0 advisory, 2 failed (of 17 total). 
+20/02/2020  9:26:33.43 All tests of whois.net.dcs.hull.ac.uk completed: 7 passed, 0 advisory, 2 failed (of 16 total). 
+20/02/2020  9:35:53.34 All tests of whois.net.dcs.hull.ac.uk completed: 7 passed, 0 advisory, 2 failed (of 16 total). 
+20/02/2020  9:46:52.92 All tests of whois.net.dcs.hull.ac.uk completed: 7 passed, 0 advisory, 2 failed (of 16 total). 
+20/02/2020  9:52:48.88 All tests of whois.net.dcs.hull.ac.uk completed: 7 passed, 0 advisory, 1 failed (of 16 total). 
+20/02/2020  9:56:00.87 All tests of whois.net.dcs.hull.ac.uk completed: 0 passed, 0 advisory, 0 failed (of 16 total). 
+Lab2Test can be signed off for CAMERON CROFT (589603) at 20/02/2020  9:56:01.88 on FEN-052-110 
+20/02/2020  9:56:35.18 All tests of whois.net.dcs.hull.ac.uk completed: 0 passed, 0 advisory, 1 failed (of 16 total). 
+20/02/2020  9:57:55.76 All tests of whois.net.dcs.hull.ac.uk completed: 0 passed, 0 advisory, 2 failed (of 16 total). 
+20/02/2020  9:59:03.42 All tests of whois.net.dcs.hull.ac.uk completed: 0 passed, 0 advisory, 2 failed (of 16 total). 
+20/02/2020  9:59:26.24 All tests of whois.net.dcs.hull.ac.uk completed: 0 passed, 0 advisory, 2 failed (of 16 total). 
+20/02/2020  9:59:54.22 All tests of whois.net.dcs.hull.ac.uk completed: 0 passed, 0 advisory, 1 failed (of 16 total). 
+20/02/2020 10:00:39.61 All tests of whois.net.dcs.hull.ac.uk completed: 0 passed, 0 advisory, 1 failed (of 16 total). 
+20/02/2020 10:01:27.39 All tests of whois.net.dcs.hull.ac.uk completed: 0 passed, 0 advisory, 1 failed (of 16 total). 
+20/02/2020 10:05:23.02 All tests of whois.net.dcs.hull.ac.uk completed: 0 passed, 0 advisory, 1 failed (of 16 total). 
+20/02/2020 10:06:50.94 All tests of whois.net.dcs.hull.ac.uk completed: 1 passed, 0 advisory, 0 failed (of 16 total). 
+Lab2Test can be signed off for CAMERON CROFT (589603) at 20/02/2020 10:06:52.25 on FEN-052-110 
+20/02/2020 10:08:12.05 All tests of whois.net.dcs.hull.ac.uk completed: 16 passed, 0 advisory, 0 failed (of 16 total). 
+Lab2Test can be signed off for CAMERON CROFT (589603) at 20/02/2020 10:08:14.30 on FEN-052-110 

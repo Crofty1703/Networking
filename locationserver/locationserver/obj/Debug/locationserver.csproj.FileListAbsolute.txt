@@ -1,0 +1,7 @@
+\\adir.hull.ac.uk\home\589\589603\Networking\Labs\lab1\locationserver\locationserver\bin\Debug\locationserver.exe.config
+\\adir.hull.ac.uk\home\589\589603\Networking\Labs\lab1\locationserver\locationserver\bin\Debug\locationserver.exe
+\\adir.hull.ac.uk\home\589\589603\Networking\Labs\lab1\locationserver\locationserver\bin\Debug\locationserver.pdb
+\\adir.hull.ac.uk\home\589\589603\Networking\Labs\lab1\locationserver\locationserver\obj\Debug\locationserver.csproj.CoreCompileInputs.cache
+\\adir.hull.ac.uk\home\589\589603\Networking\Labs\lab1\locationserver\locationserver\obj\Debug\locationserver.exe
+\\adir.hull.ac.uk\home\589\589603\Networking\Labs\lab1\locationserver\locationserver\obj\Debug\locationserver.pdb
+\\adir.hull.ac.uk\home\589\589603\Networking\Labs\lab1\locationserver\locationserver\obj\Debug\locationserver.csprojAssemblyReference.cache
